@@ -17,5 +17,5 @@ A classic Snake Game implemented using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/oussamaafnakkar2002@gmail.com/MVP-Snakey-Fun.git
+   git clone https://github.com/oussamaafnakkar/MVP-Snakey-Fun.git
 
